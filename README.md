@@ -1,199 +1,104 @@
-<!-- Wrap everything in a div to enforce black background and white text -->
-<div style="background-color: #000; color: #fff; padding: 20px;">
+<!-- README.md - polished version with roadmap -->
 
-<!-- HuseynG's README -->
-
-<!-- Banner (Optional) -->
 <p align="center">
-  <a href="https://github.com/HuseynG">
-    <!-- Example banner or name image (replace "hg.gif" with your own) -->
-    <img src="hg.gif" alt="Huseyn Gorbani Banner" width="200" />
+  <img src="hg.gif" width="180" alt="Huseyn Gorbani banner"/>
+</p>
+
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand"/> I'm Huseyn</h1>
+
+<p align="center">
+  <!-- Colored social icons (visible in dark mode) -->
+  <a href="https://www.linkedin.com/in/huseyngorbani/" title="Connect on LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:huseyndev@gmail.com" title="Send an e‑mail">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30" alt="Email"/>
   </a>
 </p>
 
-<!-- Typing SVG Animation (Smaller text size) -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Always+Learning;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=440&height=40&color=FF6E6E&vCenter=true&pause=1000&size=18" />
-  </a>
-</p>
+---
 
-<!-- Social Icons (LinkedIn Only) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/huseyngorbani/" target="_blank" rel="noreferrer">
-    <!-- White LinkedIn icon on black background -->
-    <img width="32px" 
-         src="https://cdn-icons-png.flaticon.com/512/145/145807.png" 
-         alt="LinkedIn" 
-         title="LinkedIn" />
-  </a>
-</p>
+### 🚀 About Me
 
+- 🔭 Currently building **LLM‑powered micro‑services**
+- 🌱 Exploring **multimodal models** & **vector search**
+- 🧑‍🏫 I mentor early‑career data scientists
+- 💬 Ask me about **Python, PyTorch, FastAPI & LangChain**
+- ⚡ Fun fact: I brew third‑wave coffee ☕
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2088FF?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCI+PGNpcmNsZSBjeD0iMTUiIGN5PSIxNSIgcj0iMTUiIGZpbGw9IiMyMDg4RkYiIC8+PHRleHQgeD0iMTUiIHk9IjIwIiBmb250LXNpemU9IjE0IiBmb250LWZhbWlseT0iQXJpYWwiIGR5PSIuMzVlbSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZiI+TCM8L3RleHQ+PC9zdmc+)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
 <br/>
+<sub>Full stack & tooling list in my profile <a href="https://github.com/HuseynG?tab=repositories" target="_blank">repositories</a>.</sub>
 
-<!-- GitHub Badges -->
+---
+
+### 📘 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/HuseynG/ECS7016P_TechDemo">
+    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuseynG&repo=ECS7016P_TechDemo&theme=react&hide_border=true" alt="ECS7016P TechDemo"/>
+  </a>
+  <a href="https://github.com/HuseynG/BitcoinPricePrediction">
+    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuseynG&repo=BitcoinPricePrediction&theme=react&hide_border=true" alt="Bitcoin Price Prediction"/>
+  </a>
+</p>
+
+<details>
+  <summary>⬇️ More highlighted work</summary>
+  • Contributed to <a href="https://github.com/redis/redis-py">redis‑py</a>, <a href="https://github.com/opencv/opencv">OpenCV</a> and <a href="https://github.com/rq/rq">RQ</a><br/>
+  • See all my public projects & forks → <a href="https://github.com/HuseynG?tab=repositories">GitHub profile</a>
+</details>
+
+---
+
+### 🗺️ My Learning Roadmap
+
 <p align="center">
-  <a href="https://github.com/HuseynG?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" 
-         title="Total stars on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/HuseynG?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/HuseynG?tab=followers">
-    <img alt="Followers" 
-         title="Follow me on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/HuseynG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://roadmap.sh" target="_blank" title="roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/68043134d7a904b5ef082da4?variant=dark" alt="roadmap.sh goals card" height="420"/>
   </a>
 </p>
 
-<br/>
+---
 
-<!-- My Top Open Source Projects -->
-<details open> 
-  <summary><h2 style="color:#FF6E6E;">📘 My Top Open Source Projects</h2></summary>
-  <p align="left">
-    <!-- ECS7016P_TechDemo -->
-    <a href="https://github.com/HuseynG/ECS7016P_TechDemo">
-      <img width="278" 
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuseynG&repo=ECS7016P_TechDemo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-           alt="ECS7016P_TechDemo">
-    </a>
-    <!-- BitcoinPricePrediction -->
-    <a href="https://github.com/HuseynG/BitcoinPricePrediction">
-      <img width="278" 
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HuseynG&repo=BitcoinPricePrediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-           alt="BitcoinPricePrediction">
-    </a>
-  </p>
-  <a href="https://github.com/HuseynG?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" 
-         title="All Repositories" 
-         src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
+### 📊 GitHub Stats
 
-<!-- Top Projects I've Contributed To (Issues Raised, etc.) -->
-<details open> 
-  <summary><h2 style="color:#FF6E6E;">📕 Top Projects I've Contributed To</h2></summary>
-  <p align="left">
-    <!-- redis/redis-py -->
-    <a href="https://github.com/redis/redis-py">
-      <img width="278" 
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=redis&repo=redis-py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-           alt="redis-py">
-    </a>
-    <!-- opencv/opencv -->
-    <a href="https://github.com/opencv/opencv">
-      <img width="278" 
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=opencv&repo=opencv&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-           alt="opencv">
-    </a>
-    <!-- rq/rq -->
-    <a href="https://github.com/rq/rq">
-      <img width="278" 
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rq&repo=rq&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
-           alt="rq">
-    </a>
-  </p>
-  <a href="https://github.com/HuseynG?tab=repositories">
-    <img alt="All Repositories" 
-         title="All Repositories" 
-         src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/>
-  </a>
-</details>
-
-<!-- My Favorite Tools -->
-<details> 
-  <summary><h2 style="color:#FF6E6E;">🛠️ My Favorite Tools</h2></summary>
-  
-  <!-- Programming Languages -->
-  <h3 style="color:#FF6E6E;">👨‍💻 Languages </h3>
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-  </p>
-  
-  <!-- AI & ML -->
-  <h3 style="color:#FF6E6E;">🤖 AI & Deep Learning</h3>
-  <p>
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white">
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-2088FF.svg?logo=langchain&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-  </p>
-
-  <!-- Frameworks & Libraries -->
-  <h3 style="color:#FF6E6E;">🧰 Frameworks & Libraries</h3>
-  <p>
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2.svg?logo=mlflow&logoColor=white">
-  </p>
-
-  <!-- Databases & Cloud -->
-  <h3 style="color:#FF6E6E;">🗄️ Databases & Cloud</h3>
-  <p>
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?logo=microsoft-azure&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-  </p>
-
-  <!-- Software & Tools -->
-  <h3 style="color:#FF6E6E;">💻 Software & Tools</h3>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
-    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?logo=anaconda&logoColor=white">
-  </p>
-</details>
-
-<!-- Stats and Activity -->
-<details> 
-  <summary><h2 style="color:#FF6E6E;">📊 Stats and Activity</h2></summary>
-
-  <h3 style="color:#FF6E6E;">🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/HuseynG/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-           alt="HuseynG's streak" 
-           src="https://github-readme-streak-stats.herokuapp.com?user=HuseynG&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
-  <h3 style="color:#FF6E6E;">💻 GitHub Profile Stats</h3>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="HuseynG's GitHub Stats" 
-           src="https://github-readme-stats.vercel.app/api?username=HuseynG&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="HuseynG's Top Languages" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynG&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="192px"/>
-    </a>
-  </p>
-  
-  <b>Note:</b> Top languages is only a metric of the languages in my public code and may not fully reflect expertise.
-
-  <!-- Activity graph (optional) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="HuseynG's Activity Graph" 
-         src="https://github-readme-activity-graph.vercel.app/graph/?username=HuseynG&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-  </a>
-</details>
-
-<!-- Footer -->
-<p align="center" style="color:#FF6E6E;">
-  Inspired by <a href="https://github.com/DenverCoder1" style="color:#FF6E6E;">DenverCoder1</a> &bull; Made with ❤️
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=HuseynG&theme=monokai-metallian&hide_border=true" alt="GitHub streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HuseynG&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Profile stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynG&layout=compact&theme=react&hide_border=true" alt="Top languages"/>
 </p>
 
-</div> <!-- End black background wrapper -->
+<sub>ℹ️ Top languages only reflect public code on GitHub.</sub>
+
+---
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/huseyngorbani/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+  </a>
+  <a href="mailto:huseyndev@gmail.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="E‑mail badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Inspired by <a href="https://github.com/DenverCoder1">DenverCoder1</a> • Built with ❤️</sub>
+</p>
